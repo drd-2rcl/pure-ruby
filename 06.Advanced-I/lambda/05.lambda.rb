@@ -1,4 +1,4 @@
-# with more one params
+# with more than one params
 
 def foo(first_lambda, second_lambda)
   first_lambda.call
